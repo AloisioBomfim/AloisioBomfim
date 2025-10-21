@@ -1,27 +1,39 @@
-## 👋 Olá! Eu sou Aloisio Bomfim
+# Olá, eu sou Aloísio Bomfim 👋
 
-Sou profissional da área de tecnologia com experiência em implantação de sistemas ERP, treinamento de usuários e coordenação de equipes técnicas. Tenho interesse contínuo por soluções que otimizam processos de negócio e por tecnologias que impulsionam a transformação digital.
+### Especialista em ERP em jornada para o Desenvolvimento Full Stack
 
-### 💡 Interesses e aprendizados atuais:
-- Desenvolvimento com HTML, CSS, JavaScript e Python  
-- Lógica de programação e algoritmos  
-- Automatização na Implantação e parametrização de sistemas ERP  
-- Boas práticas em gestão de projetos e padronização de processos
-
-### 🛠️ Experiência prática:
-- Implantação de ERP em clientes de diversos segmentos  
-- Treinamento de usuários em módulos como Vendas, Financeiro, Fiscal e Contábil  
-- Coordenação de equipe técnica e definição de padrões operacionais  
-- Comunicação com stakeholders e foco em entregas eficientes
-
-### 🤝 Disposto a colaborar em:
-- Projetos de automação e integração de sistemas  
-- Iniciativas educacionais e de onboarding técnico  
-- Projetos open source com foco em Python ou ERP
-
-### 📫 Contato:
-- LinkedIn: https://linkedin.com/in/aloisio-bomfim
+Sou um profissional de tecnologia com sólida experiência em implantação de sistemas ERP e agora estou direcionando minha carreira para o **desenvolvimento de software**. Minha missão é unir a visão estratégica de negócio, que adquiri ao otimizar processos em diversas empresas, com a capacidade técnica de construir soluções robustas e inovadoras.
 
 ---
 
-*Aberto a conexões, aprendizado contínuo e novos desafios na área de tecnologia.*
+- 👨‍💻 **Profissão:** Especialista em Implantação de ERP (J-Control)
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS)
+- 🚀 **Objetivo:** Me tornar um desenvolvedor Full Stack completo, dominando stacks modernos.
+- 🌱 **Foco de Estudo:** Tecnologias do ecossistema Full Stack.
+
+---
+
+## 📚 Minha Jornada de Aprendizado Full Stack
+
+Abaixo estão as tecnologias organizadas pelo meu foco de estudo atual e meus próximos passos.
+
+### 🛠️ Fundamentos que estou aprimorando:
+Nesta fase, estou solidificando minha base com as seguintes tecnologias:
+
+- **Linguagens:** `Python`, `JavaScript (ES6+)`
+- **Marcação e Estilo:** `HTML5`, `CSS3`
+- **Controle de Versão:** `Git` e `GitHub`
+
+### 🚀 Próximos Passos e Áreas de Interesse:
+Estes são os próximos capítulos da minha jornada, onde pretendo mergulhar para construir aplicações completas:
+
+- **Front-End:** Aprofundar em **React** para criar interfaces de usuário dinâmicas e modernas.
+- **Back-End:** Explorar frameworks como **Node.js** e **Django** para construir APIs e a lógica do lado do servidor.
+- **Bancos de Dados:** Estudar a modelagem e o uso de bancos **SQL (como PostgreSQL)** e **NoSQL (como MongoDB)**.
+- **DevOps:** Iniciar os estudos em **Docker** para aprender sobre contêineres e o processo de deploy de aplicações.
+
+---
+
+## 🤝 Vamos nos Conectar!
+
+Estou sempre aberto a colaborar, receber dicas e trocar ideias. Vamos conversar!

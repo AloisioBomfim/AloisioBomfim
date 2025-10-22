@@ -20,6 +20,11 @@ Abaixo estão as tecnologias organizadas pelo meu foco de estudo atual e meus pr
 ### 🛠️ Fundamentos que estou aprimorando:
 Nesta fase, estou solidificando minha base com as seguintes tecnologias:
 
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 - **Linguagens:** `Python`, `JavaScript (ES6+)`
 - **Marcação e Estilo:** `HTML5`, `CSS3`
 - **Controle de Versão:** `Git` e `GitHub`

@@ -31,10 +31,17 @@ Nesta fase, estou solidificando minha base com as seguintes tecnologias:
 ### 🚀 Próximos Passos e Áreas de Interesse:
 Estes são os próximos capítulos da minha jornada, onde pretendo mergulhar para construir aplicações completas:
 
-- **Front-End:** Aprofundar em **React** para criar interfaces de usuário dinâmicas e modernas.
-- **Back-End:** Explorar frameworks como **Node.js** e **Django** para construir APIs e a lógica do lado do servidor.
-- **Bancos de Dados:** Estudar a modelagem e o uso de bancos **SQL (como PostgreSQL)** e **NoSQL (como MongoDB)**.
-- **DevOps:** Iniciar os estudos em **Docker** para aprender sobre contêineres e o processo de deploy de aplicações.
+![frontend](https://img.shields.io/badge/Front--End-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![backend](https://img.shields.io/badge/Back--End-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![banco de dados](https://img.shields.io/badge/Banco%20de%20Dados-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![devops](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=devops&logoColor=white)
 
 ---
 
